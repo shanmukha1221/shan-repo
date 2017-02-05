@@ -12,6 +12,7 @@ public class HelloController {
 		
 		model.addAttribute("name", "shanmukha rao");
 		return "welcome.html";
+		
 	}
 
 }
